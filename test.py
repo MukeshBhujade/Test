@@ -1,3 +1,2 @@
 
 print("Mukesh")
-print("Abhay")
